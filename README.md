@@ -24,4 +24,4 @@ This repository contains the implementation of a hybrid path planning system for
 1. Clone the repository:
 ```bash
 git clone https://github.com/mohammedfalah123/YourRepoName.git
-cd YourRepoName
+cd Mohammed-Falah-Hassan-Al-Dhafiri
